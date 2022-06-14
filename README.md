@@ -50,4 +50,4 @@ df.head(20)
 ![](./f6.PNG)
 
 ## RESUT:
-hencde the expected output was successfully executed.
+Hence the expected output was successfully executed.
